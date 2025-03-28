@@ -8,14 +8,13 @@ Welcome to my profile! I am a beginner developer embarking on my coding journey.
 
 I am passionate about technology and always looking for new challenges. This repository is my space to share my learning projects, experiments, and progress.
 
-###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liviamds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liviamds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
 
 ---
@@ -28,11 +27,6 @@ I am passionate about technology and always looking for new challenges. This rep
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
-###
-
-<img src="https://raw.githubusercontent.com/liviamds/liviamds/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## Contact
 
