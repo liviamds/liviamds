@@ -6,7 +6,7 @@ Welcome to my profile! I am a beginner developer embarking on my coding journey.
 
 ## About Me
 
-I am passionate about technology and always looking for new challenges. This repository is my space to share my learning projects, experiments, and progress.
+I am passionate about technology and games. This repository is my space to share my learning projects, experiments, and progress.
 
 ---
 
